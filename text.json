@@ -1,12 +1,16 @@
 {
-  "latestVersion": "1.24",
-  "latestVersionCode": "20",
-  "url": "https://bitbucket.org",
-  "releaseNotes": [
-    "[Fix] Test",
-    "[New] Trakt support",
-    "[Update] Major UI improvements",
-    "[Update] Added many new sources",
-    "[Note] The new version will be installed as a separate app"
+
+"apps":[
+
+    "app.greyshirts.sslcapture",
+    "jp.co.taosoftware.android.packetcapture",
+    "com.guoshi.httpcanary",
+    "com.minhui.networkcapture.pro",
+    "com.minhui.wifianalyzer",
+    "com.evbadroid.wicapdemo",
+    "com.evbadroid.proxymon",
+    "com.packagesniffer.frtparlak",
+    "com.emanuelef.remote_capture"
+
   ]
 }
